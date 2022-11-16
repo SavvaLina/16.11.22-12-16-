@@ -1,0 +1,22 @@
+body{
+    background-color:beige;
+    color: darkslategray;
+    margin: 5px;
+    padding: 2px;
+    }
+    header,
+    footer {
+        text-align: right;
+        background-color: cornsilk;
+    }
+p {
+    text-align: justify;
+    text-indent: 8ch
+}
+h2,
+h3,
+h4 {
+    color: crimson;
+    text-decoration-line: underline;
+    
+}
